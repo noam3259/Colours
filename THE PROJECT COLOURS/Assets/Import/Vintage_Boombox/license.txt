@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage Boombox
+* source:	https://sketchfab.com/3d-models/vintage-boombox-45fad0a9c297476b8a97775bd5f14bf1
+* author:	rsboros (https://sketchfab.com/rsboros)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage Boombox" (https://sketchfab.com/3d-models/vintage-boombox-45fad0a9c297476b8a97775bd5f14bf1) by rsboros (https://sketchfab.com/rsboros) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Diamond02
+* source:	https://sketchfab.com/3d-models/diamond02-14a7f09c6b374c4b84ba42f47c06a2f6
+* author:	nitesharma12457868 (https://sketchfab.com/nitesharma12457868)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Diamond02" (https://sketchfab.com/3d-models/diamond02-14a7f09c6b374c4b84ba42f47c06a2f6) by nitesharma12457868 (https://sketchfab.com/nitesharma12457868) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
